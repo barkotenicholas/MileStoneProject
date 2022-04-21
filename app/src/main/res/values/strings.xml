@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GBV</string>
     <string name="report_case">REPORT CASE</string>
+    <string name="report">report</string>
 </resources>
