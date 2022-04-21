@@ -143,7 +143,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:text="Sign in"
-        android:textColor="@color/orange"
+        android:textColor="@color/darkOrange"
         app:layout_constraintBottom_toBottomOf="@+id/textView8"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
