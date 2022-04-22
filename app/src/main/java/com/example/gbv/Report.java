@@ -9,10 +9,10 @@ import android.text.InputType;
 import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
-import android.widget.DatePicker;
-import android.widget.Toast;
+
 
 import com.example.gbv.databinding.ActivityReportBinding;
+import com.example.gbv.models.Reports;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
@@ -22,6 +22,8 @@ public class Report extends AppCompatActivity {
 
     ActivityReportBinding binding;
     final Calendar myCalendar = Calendar.getInstance();
+
+
 
     @SuppressLint("ClickableViewAccessibility")
     @Override
@@ -59,6 +61,7 @@ public class Report extends AppCompatActivity {
         String location = binding.local.getText().toString();
         String desc = binding.descr.getText().toString();
 
+        Reports report = new Reports(name,idno,date,location,desc);
         Log.d("TAG", "collectData: "+name+" "+idno+""+date+""+location+""+desc);
     }
 

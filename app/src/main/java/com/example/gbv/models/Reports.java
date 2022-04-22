@@ -1,6 +1,6 @@
 package com.example.gbv.models;
 
-public class Report {
+public class Reports {
 
     String name;
     String id;
@@ -8,16 +8,18 @@ public class Report {
     String location;
     String desc;
 
-    public Report() {
-    }
-
-    public Report(String name, String id, String date, String location, String desc) {
+    public Reports(String name, String id, String date, String location, String desc) {
         this.name = name;
         this.id = id;
         this.date = date;
         this.location = location;
         this.desc = desc;
     }
+
+
+    public Reports() {
+    }
+
 
     public String getName() {
         return name;
