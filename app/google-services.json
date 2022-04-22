@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745255951066",
+    "project_id": "gbv-android",
+    "storage_bucket": "gbv-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745255951066:android:aa16cb0f45039f7d1623e3",
+        "android_client_info": {
+          "package_name": "com.example.gbv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745255951066-clkk2k3p0ibahd22k7j63lph8cp4kbj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLitX_kCJCfolY-B_w6yeZj3oiq0uDt1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745255951066-clkk2k3p0ibahd22k7j63lph8cp4kbj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

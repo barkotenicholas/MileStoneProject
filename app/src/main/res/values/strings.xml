@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GBV</string>
+    <string name="default_web_client_id1" translatable="false">745255951066-clkk2k3p0ibahd22k7j63lph8cp4kbj7.apps.googleusercontent.com</string>
 </resources>
