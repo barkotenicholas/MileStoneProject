@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GBV">
         <activity
-            android:name=".AdminReports"
+            android:name=".admin.AdminReports"
             android:exported="false" />
         <activity
             android:name=".Report"
