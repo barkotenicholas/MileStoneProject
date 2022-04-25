@@ -6,6 +6,11 @@ plugins {
 android {
     compileSdk 32
 
+
+
+    buildFeatures {
+        viewBinding true
+    }
     defaultConfig {
         applicationId "com.example.gbv"
         minSdk 21

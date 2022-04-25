@@ -12,6 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GBV">
         <activity
+            android:name=".admin.AdminReports"
+            android:exported="false" />
+        <activity
+            android:name=".Report"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
             android:name=".AnimationActivity"
             android:exported="false" />
         <activity
@@ -32,6 +39,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
