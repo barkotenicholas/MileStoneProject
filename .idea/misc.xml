@@ -8,6 +8,13 @@
         <entry key="..\:/Users/barkote/AndroidStudioProjects/GBV/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/barkote/AndroidStudioProjects/GBV/app/src/main/res/layout/activity_report.xml" value="0.22" />
         <entry key="..\:/Users/barkote/AndroidStudioProjects/GBV/app/src/main/res/layout/item_report.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/orange_button_background.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/underline.xml" value="0.19" />
+        <entry key="app/src/main/res/layout/activity_animation.xml" value="0.190625" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2341485507246377" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/menu/overflow_menu.xml" value="0.190625" />
       </map>
     </option>
   </component>
